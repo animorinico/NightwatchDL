@@ -6,6 +6,7 @@ Preconditions and steps to see the test code and run the tests:
 
 1) Make sure Visual Studio Code is installed
 2) Make sure Node is installed on the system
+3) Make sure your Chrome version is 112.0
 3) To install the project dependencies, please go to the path folder in which you cloned the repo and on a CMD console type "npm install"
     --This will look at the "package.json" file inside the project to install the dependencies.
 4) To run the tests please open a CMD command prompt and run this command:
